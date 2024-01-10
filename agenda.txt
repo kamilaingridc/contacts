@@ -1,0 +1,3 @@
+Fulana: {'Sobrenome': 'Silva', 'Celular': 11912345678, 'E-mails': ['fulana1@mail.com', '1fulana@mail.com'], 'Endereço': 'Rua das Flores, 123, Bairro Felicidade, Cidade Alegre, Estado Feliz, CEP: 12345-678', 'Aniversário': '10/02/1985'}
+Beltrana: {'Sobrenome': 'Carvalho', 'Celular': 71432109876, 'E-mails': ['beltrana1@mail.com', '1beltrana@mail.com'], 'Endereço': 'Travessa das Estrelas, 1213, Bairro Amor, Cidade Celestial, Estado Divino, CEP: 45678-901', 'Aniversário': '15/07/1990'}
+Ciclana: {'Sobrenome': 'Mendes', 'Celular': 52543210987, 'E-mails': ['ciclana@mail.com', '1ciclana@mail.com'], 'Endereço': 'Alameda dos Sonhos, 1011, Bairro Harmonia, Cidade Tranquila, Estado Plácido, CEP: 34567-890', 'Aniversário': '30/02/1998'}
